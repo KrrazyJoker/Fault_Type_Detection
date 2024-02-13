@@ -1,19 +1,12 @@
 # Electrical Power System Protection (EE-457)
-This repository contains MATLAB code for calculating sequence voltages and currents and identifying fault types in electrical power systems. The code is developed as part of the EE-457 Electrical Power System Protection course.
-## Group Members:
-Furqan Ali, Basim Ali 
-
+Maintaining stability and reliable operation of three-phase electrical power systems is crucial for modern infrastructure. Unbalanced conditions arising from faults, unbalanced loads, or harmonics can significantly impact system performance and pose safety risks. Sequence component analysis serves as a powerful tool to diagnose and address these imbalances. We developed a MATLAB code based on the Clarke and Fortescue transformations to calculate the sequence components of phase voltages and currents.
 ### Features:
-Calculation of sequence voltages for each phase
+Calculation of positive, negative, and zero sequences for voltages and currents
 
-Calculation of sequence currents for each phase
+Visualization of phasors using polar plots
 
-Identification of fault types including balanced, L, LL, LLG, and LG faults
+Identification of fault type based on sequence component characteristics
 
-Visualization of input voltage and current phasors
+Integration with Arduino for hardware
 
-Visualization of positive, negative, and zero sequence voltages and currents
-
-Calculation and display of phase angle differences between voltages and currents
-
-This code is a valuable tool for understanding power system protection and fault analysis.
+The code was applied to analyze various scenarios, including single-phase, double-phase, and three-phase faults. Results were presented in the form of polar plots showcasing the distinct signatures of each sequence component under specific fault conditions.
