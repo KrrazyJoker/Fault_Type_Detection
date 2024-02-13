@@ -1,15 +1,8 @@
 # Electrical Power System Protection (EE-457)
 This repository contains MATLAB code for calculating sequence voltages and currents and identifying fault types in electrical power systems. The code is developed as part of the EE-457 Electrical Power System Protection course.
 ## Group Members:
-Umar Ahmed (EE-20145)
+Furqan Ali, Basim Ali 
 
-Furqan Ali (EE-20147)
-
-Ahmed Raza (EE-20200)
-
-Basim Ali (EE-20324)
-
-Hanzila Farooqui (EE-20322)
 ### Features:
 Calculation of sequence voltages for each phase
 
