@@ -1,4 +1,4 @@
-# Electrical Power System Protection (EE-457)
+# FAULT DETECTION USING SEQUENCE COMPONENTS
 Maintaining stability and reliable operation of three-phase electrical power systems is crucial for modern infrastructure. Unbalanced conditions arising from faults, unbalanced loads, or harmonics can significantly impact system performance and pose safety risks. Sequence component analysis serves as a powerful tool to diagnose and address these imbalances. We developed a MATLAB code based on the Clarke and Fortescue transformations to calculate the sequence components of phase voltages and currents.
 
 ### Features:
